@@ -1,0 +1,15 @@
+H:\Programing Semester 2\Class 2\Classes and objects\obj\Debug\net6.0\Classes and objects.csproj.AssemblyReference.cache
+H:\Programing Semester 2\Class 2\Classes and objects\obj\Debug\net6.0\Classes and objects.GeneratedMSBuildEditorConfig.editorconfig
+H:\Programing Semester 2\Class 2\Classes and objects\obj\Debug\net6.0\Classes and objects.AssemblyInfoInputs.cache
+H:\Programing Semester 2\Class 2\Classes and objects\obj\Debug\net6.0\Classes and objects.AssemblyInfo.cs
+H:\Programing Semester 2\Class 2\Classes and objects\obj\Debug\net6.0\Classes and objects.csproj.CoreCompileInputs.cache
+H:\Programing Semester 2\Class 2\Classes and objects\bin\Debug\net6.0\Classes and objects.exe
+H:\Programing Semester 2\Class 2\Classes and objects\bin\Debug\net6.0\Classes and objects.deps.json
+H:\Programing Semester 2\Class 2\Classes and objects\bin\Debug\net6.0\Classes and objects.runtimeconfig.json
+H:\Programing Semester 2\Class 2\Classes and objects\bin\Debug\net6.0\Classes and objects.dll
+H:\Programing Semester 2\Class 2\Classes and objects\bin\Debug\net6.0\Classes and objects.pdb
+H:\Programing Semester 2\Class 2\Classes and objects\obj\Debug\net6.0\Classes and objects.dll
+H:\Programing Semester 2\Class 2\Classes and objects\obj\Debug\net6.0\refint\Classes and objects.dll
+H:\Programing Semester 2\Class 2\Classes and objects\obj\Debug\net6.0\Classes and objects.pdb
+H:\Programing Semester 2\Class 2\Classes and objects\obj\Debug\net6.0\Classes and objects.genruntimeconfig.cache
+H:\Programing Semester 2\Class 2\Classes and objects\obj\Debug\net6.0\ref\Classes and objects.dll
