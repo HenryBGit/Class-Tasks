@@ -33,6 +33,7 @@ namespace Class_2_Tasks
             Console.WriteLine("Car Make: " + make);
             Console.WriteLine("Car Model: " + model);
             Console.WriteLine("Car Year: " + year);
+            Console.WriteLine("\n");
         }
 
     }

@@ -15,8 +15,10 @@
             Console.WriteLine("This task creates a class with private fields and public properties and then displays 3 cars with their properties\n");
             Car myCar = new Car("Samsung Galaxy A12", "Hi", 1993);
             myCar.info();
-
-
+            Car myCar1 = new Car("Car", "swoosh", 1993);
+            myCar.info();
+            Car myCar2 = new Car("Hyundai", "hmmm", 1993);
+            myCar.info();
             Console.Write("\nPress [Enter] to continue: ");
             Console.ReadLine();
             Console.Clear();
