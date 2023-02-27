@@ -1,0 +1,15 @@
+H:\Programing Semester 2\Class 1\s1-23-id511001-classroom-tasks-HenryBGit\bin\Debug\net6.0\Classroom Tasks.exe
+H:\Programing Semester 2\Class 1\s1-23-id511001-classroom-tasks-HenryBGit\bin\Debug\net6.0\Classroom Tasks.deps.json
+H:\Programing Semester 2\Class 1\s1-23-id511001-classroom-tasks-HenryBGit\bin\Debug\net6.0\Classroom Tasks.runtimeconfig.json
+H:\Programing Semester 2\Class 1\s1-23-id511001-classroom-tasks-HenryBGit\bin\Debug\net6.0\Classroom Tasks.dll
+H:\Programing Semester 2\Class 1\s1-23-id511001-classroom-tasks-HenryBGit\bin\Debug\net6.0\Classroom Tasks.pdb
+H:\Programing Semester 2\Class 1\s1-23-id511001-classroom-tasks-HenryBGit\obj\Debug\net6.0\Classroom Tasks.csproj.AssemblyReference.cache
+H:\Programing Semester 2\Class 1\s1-23-id511001-classroom-tasks-HenryBGit\obj\Debug\net6.0\Classroom Tasks.GeneratedMSBuildEditorConfig.editorconfig
+H:\Programing Semester 2\Class 1\s1-23-id511001-classroom-tasks-HenryBGit\obj\Debug\net6.0\Classroom Tasks.AssemblyInfoInputs.cache
+H:\Programing Semester 2\Class 1\s1-23-id511001-classroom-tasks-HenryBGit\obj\Debug\net6.0\Classroom Tasks.AssemblyInfo.cs
+H:\Programing Semester 2\Class 1\s1-23-id511001-classroom-tasks-HenryBGit\obj\Debug\net6.0\Classroom Tasks.csproj.CoreCompileInputs.cache
+H:\Programing Semester 2\Class 1\s1-23-id511001-classroom-tasks-HenryBGit\obj\Debug\net6.0\Classroom Tasks.dll
+H:\Programing Semester 2\Class 1\s1-23-id511001-classroom-tasks-HenryBGit\obj\Debug\net6.0\refint\Classroom Tasks.dll
+H:\Programing Semester 2\Class 1\s1-23-id511001-classroom-tasks-HenryBGit\obj\Debug\net6.0\Classroom Tasks.pdb
+H:\Programing Semester 2\Class 1\s1-23-id511001-classroom-tasks-HenryBGit\obj\Debug\net6.0\Classroom Tasks.genruntimeconfig.cache
+H:\Programing Semester 2\Class 1\s1-23-id511001-classroom-tasks-HenryBGit\obj\Debug\net6.0\ref\Classroom Tasks.dll
