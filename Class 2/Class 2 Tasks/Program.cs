@@ -45,12 +45,15 @@
             Console.ReadLine();
             Console.Clear();
             Console.WriteLine("This is task 6\n");
-            Customer mycustomer = new Customer("Henry", "Brookland", "6th candlane avenue", 0276632165);
-            //Customer myCustomer1 = new customer("Smith", "Robin", "7th cheeseview street");
-            //Customer myCustomer2 = new customer("Samantha", 34, 25000);
+            Customer mycustomer = new Customer("Henry", "Brookland", "6th candlane avenue", "0276632165");
+            Customer mycustomer1 = new Customer("Smith", "Robin", "7th cheeseview street", "0276632165");
+            Customer mycustomer2 = new Customer("Samantha", "Hayes", "6th Monroe street", "0276632165");
             mycustomer.info();
-            //mycustomer1.info();
-            //mycustomer2.info();
+            mycustomer1.info();
+            mycustomer2.info();
+            Movie myMovie = new Movie("Deceptive Dog", "dog gone rouge", 12.50, 5);
+            Console.WriteLine("Movies Available");
+            myMovie.info();
 
         }
     }

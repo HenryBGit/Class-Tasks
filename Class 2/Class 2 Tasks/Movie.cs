@@ -12,11 +12,11 @@ namespace Class_2_Tasks
         // Fields
         private string name;
         private string description;
-        private int price;
+        private double price;
         private int stock;
 
         // Constructor
-        public Movie(string name, string description, int price, int stock)
+        public Movie(string name, string description, double price, int stock)
         {
             this.name = name;
             this.description = description;
@@ -27,7 +27,7 @@ namespace Class_2_Tasks
         // Encapsulation or properties
         public string Name { get => name; set => name = value; }
         public string Description { get => description; set => description = value; }
-        public int Price { get => price; set => price = value; }
+        public double Price { get => price; set => price = value; }
         public int Stock { get => stock; set => stock = value; }
 
         
