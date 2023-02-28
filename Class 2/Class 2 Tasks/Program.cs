@@ -22,6 +22,35 @@
             Console.Write("\nPress [Enter] to continue: ");
             Console.ReadLine();
             Console.Clear();
+            Console.WriteLine("This is task 3");
+            Console.WriteLine("This task will show a student enrollment system\n");
+            Console.WriteLine("Skipped this one, will come back to it");
+            Console.Write("\nPress [Enter] to continue: ");
+            Console.ReadLine();
+            Console.Clear();
+            Console.WriteLine("This is task 4");
+            Console.WriteLine("This task will display Employee's status and tell the user when they have inputed a negative number\n");
+            Employee myEmployee = new Employee("Henry", 18, 25000);
+            Employee myEmployee1 = new Employee("Smith", 22, 40000);
+            Employee myEmployee2 = new Employee("Samantha", 34, 25000);
+            myEmployee.info();
+            myEmployee1.info();
+            myEmployee2.info();
+            Console.Write("\nPress [Enter] to continue: ");
+            Console.ReadLine();
+            Console.Clear();
+            Console.WriteLine("This is task 5");
+            Console.WriteLine("I skipped this task accidentally, will come back to it");
+            Console.Write("\nPress [Enter] to continue: ");
+            Console.ReadLine();
+            Console.Clear();
+            Console.WriteLine("This is task 6\n");
+            Customer mycustomer = new Customer("Henry", "Brookland", "6th candlane avenue", 0276632165);
+            //Customer myCustomer1 = new customer("Smith", "Robin", "7th cheeseview street");
+            //Customer myCustomer2 = new customer("Samantha", 34, 25000);
+            mycustomer.info();
+            //mycustomer1.info();
+            //mycustomer2.info();
 
         }
     }
