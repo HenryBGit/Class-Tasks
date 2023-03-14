@@ -13,3 +13,18 @@ H:\Programing Semester 2\Class-Tasks\Class 4\Debugging\obj\Debug\net6.0\refint\D
 H:\Programing Semester 2\Class-Tasks\Class 4\Debugging\obj\Debug\net6.0\Debugging.pdb
 H:\Programing Semester 2\Class-Tasks\Class 4\Debugging\obj\Debug\net6.0\Debugging.genruntimeconfig.cache
 H:\Programing Semester 2\Class-Tasks\Class 4\Debugging\obj\Debug\net6.0\ref\Debugging.dll
+H:\Programing Semester 2\Class-Tasks\Class 3\Abstract Data types\bin\Debug\net6.0\Debugging.exe
+H:\Programing Semester 2\Class-Tasks\Class 3\Abstract Data types\bin\Debug\net6.0\Debugging.deps.json
+H:\Programing Semester 2\Class-Tasks\Class 3\Abstract Data types\bin\Debug\net6.0\Debugging.runtimeconfig.json
+H:\Programing Semester 2\Class-Tasks\Class 3\Abstract Data types\bin\Debug\net6.0\Debugging.dll
+H:\Programing Semester 2\Class-Tasks\Class 3\Abstract Data types\bin\Debug\net6.0\Debugging.pdb
+H:\Programing Semester 2\Class-Tasks\Class 3\Abstract Data types\obj\Debug\net6.0\Debugging.csproj.AssemblyReference.cache
+H:\Programing Semester 2\Class-Tasks\Class 3\Abstract Data types\obj\Debug\net6.0\Debugging.GeneratedMSBuildEditorConfig.editorconfig
+H:\Programing Semester 2\Class-Tasks\Class 3\Abstract Data types\obj\Debug\net6.0\Debugging.AssemblyInfoInputs.cache
+H:\Programing Semester 2\Class-Tasks\Class 3\Abstract Data types\obj\Debug\net6.0\Debugging.AssemblyInfo.cs
+H:\Programing Semester 2\Class-Tasks\Class 3\Abstract Data types\obj\Debug\net6.0\Debugging.csproj.CoreCompileInputs.cache
+H:\Programing Semester 2\Class-Tasks\Class 3\Abstract Data types\obj\Debug\net6.0\Debugging.dll
+H:\Programing Semester 2\Class-Tasks\Class 3\Abstract Data types\obj\Debug\net6.0\refint\Debugging.dll
+H:\Programing Semester 2\Class-Tasks\Class 3\Abstract Data types\obj\Debug\net6.0\Debugging.pdb
+H:\Programing Semester 2\Class-Tasks\Class 3\Abstract Data types\obj\Debug\net6.0\Debugging.genruntimeconfig.cache
+H:\Programing Semester 2\Class-Tasks\Class 3\Abstract Data types\obj\Debug\net6.0\ref\Debugging.dll
