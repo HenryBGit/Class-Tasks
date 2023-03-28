@@ -1,0 +1,15 @@
+H:\Programing Semester 2\Class-Tasks\Class 6\Class 6 Polymorphism\bin\Debug\net6.0\Class 6 Polymorphism.exe
+H:\Programing Semester 2\Class-Tasks\Class 6\Class 6 Polymorphism\bin\Debug\net6.0\Class 6 Polymorphism.deps.json
+H:\Programing Semester 2\Class-Tasks\Class 6\Class 6 Polymorphism\bin\Debug\net6.0\Class 6 Polymorphism.runtimeconfig.json
+H:\Programing Semester 2\Class-Tasks\Class 6\Class 6 Polymorphism\bin\Debug\net6.0\Class 6 Polymorphism.dll
+H:\Programing Semester 2\Class-Tasks\Class 6\Class 6 Polymorphism\bin\Debug\net6.0\Class 6 Polymorphism.pdb
+H:\Programing Semester 2\Class-Tasks\Class 6\Class 6 Polymorphism\obj\Debug\net6.0\Class 6 Polymorphism.csproj.AssemblyReference.cache
+H:\Programing Semester 2\Class-Tasks\Class 6\Class 6 Polymorphism\obj\Debug\net6.0\Class 6 Polymorphism.GeneratedMSBuildEditorConfig.editorconfig
+H:\Programing Semester 2\Class-Tasks\Class 6\Class 6 Polymorphism\obj\Debug\net6.0\Class 6 Polymorphism.AssemblyInfoInputs.cache
+H:\Programing Semester 2\Class-Tasks\Class 6\Class 6 Polymorphism\obj\Debug\net6.0\Class 6 Polymorphism.AssemblyInfo.cs
+H:\Programing Semester 2\Class-Tasks\Class 6\Class 6 Polymorphism\obj\Debug\net6.0\Class 6 Polymorphism.csproj.CoreCompileInputs.cache
+H:\Programing Semester 2\Class-Tasks\Class 6\Class 6 Polymorphism\obj\Debug\net6.0\Class 6 Polymorphism.dll
+H:\Programing Semester 2\Class-Tasks\Class 6\Class 6 Polymorphism\obj\Debug\net6.0\refint\Class 6 Polymorphism.dll
+H:\Programing Semester 2\Class-Tasks\Class 6\Class 6 Polymorphism\obj\Debug\net6.0\Class 6 Polymorphism.pdb
+H:\Programing Semester 2\Class-Tasks\Class 6\Class 6 Polymorphism\obj\Debug\net6.0\Class 6 Polymorphism.genruntimeconfig.cache
+H:\Programing Semester 2\Class-Tasks\Class 6\Class 6 Polymorphism\obj\Debug\net6.0\ref\Class 6 Polymorphism.dll

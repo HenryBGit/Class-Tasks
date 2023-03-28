@@ -1,0 +1,15 @@
+H:\Programing Semester 2\Class-Tasks\Class 6\Class 6 Task 4\Class 6 Task 6\Class 6 Task 6\bin\Debug\net6.0\Class 6 Task 6.exe
+H:\Programing Semester 2\Class-Tasks\Class 6\Class 6 Task 4\Class 6 Task 6\Class 6 Task 6\bin\Debug\net6.0\Class 6 Task 6.deps.json
+H:\Programing Semester 2\Class-Tasks\Class 6\Class 6 Task 4\Class 6 Task 6\Class 6 Task 6\bin\Debug\net6.0\Class 6 Task 6.runtimeconfig.json
+H:\Programing Semester 2\Class-Tasks\Class 6\Class 6 Task 4\Class 6 Task 6\Class 6 Task 6\bin\Debug\net6.0\Class 6 Task 6.dll
+H:\Programing Semester 2\Class-Tasks\Class 6\Class 6 Task 4\Class 6 Task 6\Class 6 Task 6\bin\Debug\net6.0\Class 6 Task 6.pdb
+H:\Programing Semester 2\Class-Tasks\Class 6\Class 6 Task 4\Class 6 Task 6\Class 6 Task 6\obj\Debug\net6.0\Class 6 Task 6.csproj.AssemblyReference.cache
+H:\Programing Semester 2\Class-Tasks\Class 6\Class 6 Task 4\Class 6 Task 6\Class 6 Task 6\obj\Debug\net6.0\Class 6 Task 6.GeneratedMSBuildEditorConfig.editorconfig
+H:\Programing Semester 2\Class-Tasks\Class 6\Class 6 Task 4\Class 6 Task 6\Class 6 Task 6\obj\Debug\net6.0\Class 6 Task 6.AssemblyInfoInputs.cache
+H:\Programing Semester 2\Class-Tasks\Class 6\Class 6 Task 4\Class 6 Task 6\Class 6 Task 6\obj\Debug\net6.0\Class 6 Task 6.AssemblyInfo.cs
+H:\Programing Semester 2\Class-Tasks\Class 6\Class 6 Task 4\Class 6 Task 6\Class 6 Task 6\obj\Debug\net6.0\Class 6 Task 6.csproj.CoreCompileInputs.cache
+H:\Programing Semester 2\Class-Tasks\Class 6\Class 6 Task 4\Class 6 Task 6\Class 6 Task 6\obj\Debug\net6.0\Class 6 Task 6.dll
+H:\Programing Semester 2\Class-Tasks\Class 6\Class 6 Task 4\Class 6 Task 6\Class 6 Task 6\obj\Debug\net6.0\refint\Class 6 Task 6.dll
+H:\Programing Semester 2\Class-Tasks\Class 6\Class 6 Task 4\Class 6 Task 6\Class 6 Task 6\obj\Debug\net6.0\Class 6 Task 6.pdb
+H:\Programing Semester 2\Class-Tasks\Class 6\Class 6 Task 4\Class 6 Task 6\Class 6 Task 6\obj\Debug\net6.0\Class 6 Task 6.genruntimeconfig.cache
+H:\Programing Semester 2\Class-Tasks\Class 6\Class 6 Task 4\Class 6 Task 6\Class 6 Task 6\obj\Debug\net6.0\ref\Class 6 Task 6.dll

@@ -1,0 +1,15 @@
+H:\Programing Semester 2\Class-Tasks\Class 6\Class 6 Task 4\Class 6 Task 4\bin\Debug\net6.0\Class 6 Task 4.exe
+H:\Programing Semester 2\Class-Tasks\Class 6\Class 6 Task 4\Class 6 Task 4\bin\Debug\net6.0\Class 6 Task 4.deps.json
+H:\Programing Semester 2\Class-Tasks\Class 6\Class 6 Task 4\Class 6 Task 4\bin\Debug\net6.0\Class 6 Task 4.runtimeconfig.json
+H:\Programing Semester 2\Class-Tasks\Class 6\Class 6 Task 4\Class 6 Task 4\bin\Debug\net6.0\Class 6 Task 4.dll
+H:\Programing Semester 2\Class-Tasks\Class 6\Class 6 Task 4\Class 6 Task 4\bin\Debug\net6.0\Class 6 Task 4.pdb
+H:\Programing Semester 2\Class-Tasks\Class 6\Class 6 Task 4\Class 6 Task 4\obj\Debug\net6.0\Class 6 Task 4.csproj.AssemblyReference.cache
+H:\Programing Semester 2\Class-Tasks\Class 6\Class 6 Task 4\Class 6 Task 4\obj\Debug\net6.0\Class 6 Task 4.GeneratedMSBuildEditorConfig.editorconfig
+H:\Programing Semester 2\Class-Tasks\Class 6\Class 6 Task 4\Class 6 Task 4\obj\Debug\net6.0\Class 6 Task 4.AssemblyInfoInputs.cache
+H:\Programing Semester 2\Class-Tasks\Class 6\Class 6 Task 4\Class 6 Task 4\obj\Debug\net6.0\Class 6 Task 4.AssemblyInfo.cs
+H:\Programing Semester 2\Class-Tasks\Class 6\Class 6 Task 4\Class 6 Task 4\obj\Debug\net6.0\Class 6 Task 4.csproj.CoreCompileInputs.cache
+H:\Programing Semester 2\Class-Tasks\Class 6\Class 6 Task 4\Class 6 Task 4\obj\Debug\net6.0\Class 6 Task 4.dll
+H:\Programing Semester 2\Class-Tasks\Class 6\Class 6 Task 4\Class 6 Task 4\obj\Debug\net6.0\refint\Class 6 Task 4.dll
+H:\Programing Semester 2\Class-Tasks\Class 6\Class 6 Task 4\Class 6 Task 4\obj\Debug\net6.0\Class 6 Task 4.pdb
+H:\Programing Semester 2\Class-Tasks\Class 6\Class 6 Task 4\Class 6 Task 4\obj\Debug\net6.0\Class 6 Task 4.genruntimeconfig.cache
+H:\Programing Semester 2\Class-Tasks\Class 6\Class 6 Task 4\Class 6 Task 4\obj\Debug\net6.0\ref\Class 6 Task 4.dll

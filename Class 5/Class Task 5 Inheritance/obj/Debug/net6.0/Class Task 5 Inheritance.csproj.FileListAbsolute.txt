@@ -1,0 +1,15 @@
+H:\Programing Semester 2\Class-Tasks\Class 5\Class Task 5 Inheritance\bin\Debug\net6.0\Class Task 5 Inheritance.exe
+H:\Programing Semester 2\Class-Tasks\Class 5\Class Task 5 Inheritance\bin\Debug\net6.0\Class Task 5 Inheritance.deps.json
+H:\Programing Semester 2\Class-Tasks\Class 5\Class Task 5 Inheritance\bin\Debug\net6.0\Class Task 5 Inheritance.runtimeconfig.json
+H:\Programing Semester 2\Class-Tasks\Class 5\Class Task 5 Inheritance\bin\Debug\net6.0\Class Task 5 Inheritance.dll
+H:\Programing Semester 2\Class-Tasks\Class 5\Class Task 5 Inheritance\bin\Debug\net6.0\Class Task 5 Inheritance.pdb
+H:\Programing Semester 2\Class-Tasks\Class 5\Class Task 5 Inheritance\obj\Debug\net6.0\Class Task 5 Inheritance.csproj.AssemblyReference.cache
+H:\Programing Semester 2\Class-Tasks\Class 5\Class Task 5 Inheritance\obj\Debug\net6.0\Class Task 5 Inheritance.GeneratedMSBuildEditorConfig.editorconfig
+H:\Programing Semester 2\Class-Tasks\Class 5\Class Task 5 Inheritance\obj\Debug\net6.0\Class Task 5 Inheritance.AssemblyInfoInputs.cache
+H:\Programing Semester 2\Class-Tasks\Class 5\Class Task 5 Inheritance\obj\Debug\net6.0\Class Task 5 Inheritance.AssemblyInfo.cs
+H:\Programing Semester 2\Class-Tasks\Class 5\Class Task 5 Inheritance\obj\Debug\net6.0\Class Task 5 Inheritance.csproj.CoreCompileInputs.cache
+H:\Programing Semester 2\Class-Tasks\Class 5\Class Task 5 Inheritance\obj\Debug\net6.0\Class Task 5 Inheritance.dll
+H:\Programing Semester 2\Class-Tasks\Class 5\Class Task 5 Inheritance\obj\Debug\net6.0\refint\Class Task 5 Inheritance.dll
+H:\Programing Semester 2\Class-Tasks\Class 5\Class Task 5 Inheritance\obj\Debug\net6.0\Class Task 5 Inheritance.pdb
+H:\Programing Semester 2\Class-Tasks\Class 5\Class Task 5 Inheritance\obj\Debug\net6.0\Class Task 5 Inheritance.genruntimeconfig.cache
+H:\Programing Semester 2\Class-Tasks\Class 5\Class Task 5 Inheritance\obj\Debug\net6.0\ref\Class Task 5 Inheritance.dll
