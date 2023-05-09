@@ -1,0 +1,35 @@
+H:\Programing Semester 2\Class-Tasks\CLass 7\Timer control and graphics\Timer control and graphics\bin\Debug\net6.0-windows\Timer control and graphics.exe
+H:\Programing Semester 2\Class-Tasks\CLass 7\Timer control and graphics\Timer control and graphics\bin\Debug\net6.0-windows\Timer control and graphics.deps.json
+H:\Programing Semester 2\Class-Tasks\CLass 7\Timer control and graphics\Timer control and graphics\bin\Debug\net6.0-windows\Timer control and graphics.runtimeconfig.json
+H:\Programing Semester 2\Class-Tasks\CLass 7\Timer control and graphics\Timer control and graphics\bin\Debug\net6.0-windows\Timer control and graphics.dll
+H:\Programing Semester 2\Class-Tasks\CLass 7\Timer control and graphics\Timer control and graphics\bin\Debug\net6.0-windows\Timer control and graphics.pdb
+H:\Programing Semester 2\Class-Tasks\CLass 7\Timer control and graphics\Timer control and graphics\obj\Debug\net6.0-windows\Timer control and graphics.csproj.AssemblyReference.cache
+H:\Programing Semester 2\Class-Tasks\CLass 7\Timer control and graphics\Timer control and graphics\obj\Debug\net6.0-windows\Timer_control_and_graphics.Form1.resources
+H:\Programing Semester 2\Class-Tasks\CLass 7\Timer control and graphics\Timer control and graphics\obj\Debug\net6.0-windows\Timer control and graphics.csproj.GenerateResource.cache
+H:\Programing Semester 2\Class-Tasks\CLass 7\Timer control and graphics\Timer control and graphics\obj\Debug\net6.0-windows\Timer control and graphics.GeneratedMSBuildEditorConfig.editorconfig
+H:\Programing Semester 2\Class-Tasks\CLass 7\Timer control and graphics\Timer control and graphics\obj\Debug\net6.0-windows\Timer control and graphics.AssemblyInfoInputs.cache
+H:\Programing Semester 2\Class-Tasks\CLass 7\Timer control and graphics\Timer control and graphics\obj\Debug\net6.0-windows\Timer control and graphics.AssemblyInfo.cs
+H:\Programing Semester 2\Class-Tasks\CLass 7\Timer control and graphics\Timer control and graphics\obj\Debug\net6.0-windows\Timer control and graphics.csproj.CoreCompileInputs.cache
+H:\Programing Semester 2\Class-Tasks\CLass 7\Timer control and graphics\Timer control and graphics\obj\Debug\net6.0-windows\Timer control and graphics.dll
+H:\Programing Semester 2\Class-Tasks\CLass 7\Timer control and graphics\Timer control and graphics\obj\Debug\net6.0-windows\refint\Timer control and graphics.dll
+H:\Programing Semester 2\Class-Tasks\CLass 7\Timer control and graphics\Timer control and graphics\obj\Debug\net6.0-windows\Timer control and graphics.pdb
+H:\Programing Semester 2\Class-Tasks\CLass 7\Timer control and graphics\Timer control and graphics\obj\Debug\net6.0-windows\Timer control and graphics.genruntimeconfig.cache
+H:\Programing Semester 2\Class-Tasks\CLass 7\Timer control and graphics\Timer control and graphics\obj\Debug\net6.0-windows\ref\Timer control and graphics.dll
+H:\Programing Semester 2\Class-Tasks\CLass 7\form app\bin\Debug\net6.0-windows\Timer control and graphics.exe
+H:\Programing Semester 2\Class-Tasks\CLass 7\form app\bin\Debug\net6.0-windows\Timer control and graphics.deps.json
+H:\Programing Semester 2\Class-Tasks\CLass 7\form app\bin\Debug\net6.0-windows\Timer control and graphics.runtimeconfig.json
+H:\Programing Semester 2\Class-Tasks\CLass 7\form app\bin\Debug\net6.0-windows\Timer control and graphics.dll
+H:\Programing Semester 2\Class-Tasks\CLass 7\form app\bin\Debug\net6.0-windows\Timer control and graphics.pdb
+H:\Programing Semester 2\Class-Tasks\CLass 7\form app\obj\Debug\net6.0-windows\Timer control and graphics.csproj.AssemblyReference.cache
+H:\Programing Semester 2\Class-Tasks\CLass 7\form app\obj\Debug\net6.0-windows\Timer_control_and_graphics.Form1.resources
+H:\Programing Semester 2\Class-Tasks\CLass 7\form app\obj\Debug\net6.0-windows\Timer_control_and_graphics.Properties.Resources.resources
+H:\Programing Semester 2\Class-Tasks\CLass 7\form app\obj\Debug\net6.0-windows\Timer control and graphics.csproj.GenerateResource.cache
+H:\Programing Semester 2\Class-Tasks\CLass 7\form app\obj\Debug\net6.0-windows\Timer control and graphics.GeneratedMSBuildEditorConfig.editorconfig
+H:\Programing Semester 2\Class-Tasks\CLass 7\form app\obj\Debug\net6.0-windows\Timer control and graphics.AssemblyInfoInputs.cache
+H:\Programing Semester 2\Class-Tasks\CLass 7\form app\obj\Debug\net6.0-windows\Timer control and graphics.AssemblyInfo.cs
+H:\Programing Semester 2\Class-Tasks\CLass 7\form app\obj\Debug\net6.0-windows\Timer control and graphics.csproj.CoreCompileInputs.cache
+H:\Programing Semester 2\Class-Tasks\CLass 7\form app\obj\Debug\net6.0-windows\Timer control and graphics.dll
+H:\Programing Semester 2\Class-Tasks\CLass 7\form app\obj\Debug\net6.0-windows\refint\Timer control and graphics.dll
+H:\Programing Semester 2\Class-Tasks\CLass 7\form app\obj\Debug\net6.0-windows\Timer control and graphics.pdb
+H:\Programing Semester 2\Class-Tasks\CLass 7\form app\obj\Debug\net6.0-windows\Timer control and graphics.genruntimeconfig.cache
+H:\Programing Semester 2\Class-Tasks\CLass 7\form app\obj\Debug\net6.0-windows\ref\Timer control and graphics.dll
